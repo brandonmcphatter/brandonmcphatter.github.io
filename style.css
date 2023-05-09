@@ -11,4 +11,8 @@ body{
 hr{
     color: purple;
 }
+li{
+    text-align: center;
+    font-size: x-large;
+}
 
