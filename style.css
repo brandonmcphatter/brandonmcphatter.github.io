@@ -11,11 +11,16 @@ body{
 hr{
     color: purple;
 }
-li{
+.nav-item{
     text-align: center;
     font-size: xxx-large;
 }
-/*.splide__slide img {*/
-/*    width: auto;*/
-/*    height: auto;*/
-/*}*/
+#two {
+    text-shadow: 2px 2px black;
+}
+a{
+    color: purple;
+}
+a:hover {
+    color: purple;
+}
